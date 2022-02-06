@@ -90,7 +90,7 @@ span {
 }
 
 .main img{
-  width: 250px;
+  width: 350px;
   border: 7px solid aqua;
 }
 
@@ -275,6 +275,6 @@ span {
   justify-content: space-evenly;
   width: 300px;
   margin: top 1.5em;
-  font-size: 2em;
+  font-size: 2.5em;
 
 }
